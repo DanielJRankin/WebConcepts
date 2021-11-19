@@ -1,0 +1,16 @@
+{
+    "host": "ftp.stackcp.com",
+    "username": "redbox-shop-boilerplate.co.uk",
+    "password": "28284ac74e7f",
+    "remotePath": "public_html/wp-content/themes/woodmart-child/",
+    "protocol": "ftp",
+    "port": 0,
+    "fileNameEncoding": "utf8",
+    "autoUpload": true,
+    "autoDelete": true,
+    "autoDownload": false,
+    "ignore": [
+        ".git",
+        "/.vscode"
+    ]
+}
